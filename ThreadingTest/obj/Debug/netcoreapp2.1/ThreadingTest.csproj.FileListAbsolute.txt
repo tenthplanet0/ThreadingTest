@@ -1,0 +1,11 @@
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\bin\Debug\netcoreapp2.1\ThreadingTest.deps.json
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\bin\Debug\netcoreapp2.1\ThreadingTest.runtimeconfig.json
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\bin\Debug\netcoreapp2.1\ThreadingTest.runtimeconfig.dev.json
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\bin\Debug\netcoreapp2.1\ThreadingTest.dll
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\bin\Debug\netcoreapp2.1\ThreadingTest.pdb
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\obj\Debug\netcoreapp2.1\ThreadingTest.csprojAssemblyReference.cache
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\obj\Debug\netcoreapp2.1\ThreadingTest.csproj.CoreCompileInputs.cache
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\obj\Debug\netcoreapp2.1\ThreadingTest.AssemblyInfoInputs.cache
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\obj\Debug\netcoreapp2.1\ThreadingTest.AssemblyInfo.cs
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\obj\Debug\netcoreapp2.1\ThreadingTest.dll
+I:\_Development\Practice\ConsoleApp\ThreadingTest\ThreadingTest\obj\Debug\netcoreapp2.1\ThreadingTest.pdb
